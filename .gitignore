@@ -1,0 +1,10 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/Database/bin/Debug
+/Database/Importer les journaux de schémas
+/Database/obj/Debug
+/Database/Database.refactorlog
+/Database/Database.jfm
+/Database/Database.sqlproj.user
